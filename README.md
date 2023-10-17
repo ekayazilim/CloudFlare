@@ -1,4 +1,4 @@
-# Cloudflare DNS Kayıtlarını Silme
+# Cloudflare Toplu DNS Kayıtlarını Silme
 
 Bu PHP betiği, Cloudflare API'sini kullanarak belirli bir alan adına ait DNS kayıtlarını silmek için tasarlanmıştır. Aşağıda, bu kodun nasıl kullanılacağı ve özelleştirileceği açıklanmıştır.
 
