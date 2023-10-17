@@ -17,7 +17,7 @@ Bu PHP betiği, Cloudflare API'sini kullanarak belirli bir alan adına ait DNS k
 3. Kodu çalıştırın.
 
     ```
-    php cloudflare_dns_sil.php
+    php cloudflare.php
     ```
 
 ## Dikkat
